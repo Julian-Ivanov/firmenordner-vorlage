@@ -41,6 +41,8 @@ Zeig der Person den Vorschlag kurz, bevor du ihn anlegst. Danach lädst du ihn s
 
 Ist die Person selbst für die betroffene Datei zuständig, fragst du nach dem Anlegen gleich, ob du den Vorschlag einarbeiten sollst. So bleibt auch ihre Änderung im Verlauf nachvollziehbar.
 
+Bestätigt die zuständige Person bei einer Prüfung, dass eine Datei noch stimmt, setzt du dort `geprüft_am` direkt auf das heutige Datum, ohne Vorschlag.
+
 ## Durchsicht der Vorschläge
 
 Wenn jemand sagt „geh die Vorschläge durch“:
@@ -65,6 +67,7 @@ Welcher Weg gilt, steht in der CLAUDE.md der Firma.
 ### Über Git (GitHub, Gitea, Forgejo)
 
 - Beim Start jeder Sitzung holt eine Automatik im Arbeitsordner den neuesten Stand. Meldet sie einen Fehler, sag der Person in einem Satz, was los ist und dass sie gerade mit einem älteren Stand arbeitet. Gibt es keine Automatik, holst du den Stand selbst, bevor du im Firmenordner etwas liest oder schreibst.
+- Bleibt der Firmenordner dabei mitten im Zusammenführen hängen, bringst du das zuerst in Ordnung, bevor du dort weiterarbeitest: beide Stände zusammenführen und bei Unklarheit nachfragen. Nichts davon verwerfen, ohne zu fragen.
 - Hochladen machst du sofort, nach jedem neuen Vorschlag, wenn ein Stück Arbeit in `arbeit/` fertig ist, und nach jeder Durchsicht. Sag dabei kurz, was du hochlädst.
 - Sagt jemand „lad das hoch“, „schick das ans Team“ oder etwas Ähnliches, prüfst du, was im Firmenordner noch nicht hochgeladen ist, und lädst es hoch.
 - Jede Änderung bekommt eine kurze Beschreibung mit Namen, zum Beispiel „Anna: Vorschlag Tagessatz 1.400 Euro“ oder „Ben: Angebot K-MB Workshop“.
