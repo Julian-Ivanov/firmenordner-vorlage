@@ -27,7 +27,7 @@ Lade die Claude Desktop-App von claude.com/download herunter, installiere sie un
 
 **3. Deinen Arbeitsordner anlegen**
 
-Leg einen leeren Ordner an, zum Beispiel „Claude“ in deinem Benutzerordner. Wichtig: nicht in OneDrive, iCloud oder Dropbox, diese Dienste vertragen sich nicht mit unserem Firmenordner. Der Ordner gehört nur dir, die anderen sehen ihn nicht.
+Leg einen leeren Ordner an, zum Beispiel „Arbeit“ in deinem Benutzerordner. Wichtig: nicht in OneDrive, iCloud oder Dropbox, diese Dienste vertragen sich nicht mit unserem Firmenordner. Der Ordner gehört nur dir, die anderen sehen ihn nicht.
 
 Öffne in der Desktop-App den Bereich für Code und wähle diesen Ordner aus. Falls dir dort eine Option für eine abgetrennte Arbeitskopie angeboten wird (Worktree), lass sie ausgeschaltet. In so einer Kopie fehlt der Firmenordner.
 
